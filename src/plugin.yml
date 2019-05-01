@@ -1,0 +1,10 @@
+name: Fly
+description: A plugin to enable or disable flying in survival mode.
+version: 1.0
+author: SaVaGeCrEePeR28
+main: me.savagecreeper28.main.Main
+
+commands:
+  fly:
+    description: Enable or disable flying.
+    usage: /<command>
